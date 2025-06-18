@@ -162,8 +162,8 @@ footer{
     padding: 2px;
 }
 .div-span h3{
-    font-size: 20px;
-    margin-top: px;
+    font-size: 15px;
+    margin-top: - 35px;
 }
 .div-span li{
     flex-direction: column;
@@ -297,7 +297,7 @@ h2{
     text-align: center;
     background-color: #146ED1;
     padding: 60px;
-    width: 687px;
+    width: 720px;
 }
 .body{
     background-repeat: no-repeat;
@@ -345,7 +345,7 @@ h3{
     display: flex;
 }
 .div-from h3{
-    font-size: 20px;
+    font-size: 15px;
     margin-top: -50px;
 }
 .div-from li{
@@ -356,10 +356,8 @@ h3{
 }
 .fom{
      flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-left: 
+    justify-content: centre;
+    margin-left:-200px;
 }
 .fom p{
     color: #fff;
